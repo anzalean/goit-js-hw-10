@@ -49,7 +49,6 @@ if (!time.value  ) {
         });
     });
 });
-
 function createPromise() {
     console.log("Start")
     return new Promise((resolve, reject) => {
